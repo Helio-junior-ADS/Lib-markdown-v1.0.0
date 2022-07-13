@@ -20,7 +20,8 @@ Principais Pontos de Melhoria:
 
 # 🚀 Documentação
 
-Para acessar basta utilizar o COMANDO: npm run cli validar
+### Para acessar basta utilizar, COMANDO: npm run cli validar
+### Para testar, COMANDO: npm run test
 
 # 🦸 Autor
 Desenvolvido por Hélio Júnior 👨‍💻 [Entre em contato!](https://www.linkedin.com/in/h%C3%A9lio-j%C3%BAnior-81aa6612a/)
