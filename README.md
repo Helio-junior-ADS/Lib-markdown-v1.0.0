@@ -19,7 +19,7 @@
 # 🚀 Melhorias
 ## As seguintes melhorias precisam ser feitas para aprimoramento do projeto.
 Principais Pontos de Melhoria:
-+ ### Incorporar a api a um sistema.
++ ### Incorporar api em um sistema.
 
 # 🚀 Documentação
 
