@@ -1,17 +1,20 @@
 # Lib-markdown-v1.0.0
 
 # 💻 Sobre o projeto
-## Projeto desenvolvido como trabalho da Alura. Desenvolver uma biblioteca totalmente funcional em NodeJS.
+## Projeto desenvolvido como trabalho da Alura. Desenvolver uma biblioteca totalmente funcional em NodeJS. Uma lib que captura URL EM ARQUIVOS DE SISTEMAS.
+
+# ✔️ O que foi aprendido.
+* ## importar e utilizar código de repositórios de código aberto.
+* ## O que são as promessas e como trabalhar com código asíncrono em NodeJS
+* ## Criar próprios comandos para serem executados no terminal
+* ## Use as bibliotecas do NodeJS para fazer requisições HTTP e manejar respostas
+* ## Primeiros testes de unidade com Jest
 
 
 # 🛠 Tecnologias/Ferramentas
-+ ### Importação e uso de dependências e módulos
-+ ### O uso da lib file system
-+ ### Como funcionam os comandos do terminal
-+ ### O que são as promessas e o código assíncrono
-+ ### Como utilizar expressões regulares
-+ ### Fazer requisições HTTP e manejar as respostas
-+ ### Testes unitários
++ ### Módulos nativos (HTTP, URL e FS)
++ ### Lib Jest para Testes unitários
++ ### REGEX
 
 # 🚀 Melhorias
 ## As seguintes melhorias precisam ser feitas para aprimoramento do projeto.
